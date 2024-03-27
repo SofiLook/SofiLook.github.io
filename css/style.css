@@ -1,0 +1,19 @@
+body{
+    background-image: url(fondo-1.png);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+footer {
+    text-align: center;
+    background-color: #0f0f0f;
+    padding: 10px;
+    margin-top: auto;
+    color: aliceblue;
+}
+.social-icon img{
+    margin: 0 10px;
+    width: 30px;
+    height: 30px;
+}
